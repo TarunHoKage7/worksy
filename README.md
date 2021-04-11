@@ -22,13 +22,20 @@ experience.
 #Features:
 
 *Video Player 
+ 
  *Video learning resources
-   *Connected to firebase - Firestore(cloud storage) But uploading and retriving isn't completely done
-     *Implemented marketplace prototype(was supposed to be similar to Instagram’s feed. It isn’t quite there yet. )
-       *Google, Facebook, and Github authentication are planned.
-         *User profiles pending.
-           *Improve UI.
-             *Alot more to be done.
+ 
+ *Connected to firebase - Firestore(cloud storage) But uploading and retriving isn't completely done
+ 
+ *Implemented marketplace prototype(was supposed to be similar to Instagram’s feed. It isn’t quite there yet. )
+ 
+ *Google, Facebook, and Github authentication are planned.
+ 
+ *User profiles pending.
+ 
+ *Improve UI.
+ 
+ *Alot more to be done.
              
 The problem we’ve chosen to solve is two-part. The first being ‘providing up-skilling opportunities to all while also promoting lifelong learning opportunities and later a 
 chance at apprenticeship to mentors from their chosen field (if available).
