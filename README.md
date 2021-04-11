@@ -31,15 +31,12 @@ experience.
              *Alot more to be done.
              
 The problem we’ve chosen to solve is two-part. The first being ‘providing up-skilling opportunities to all while also promoting lifelong learning opportunities and later a 
-
 chance at apprenticeship to mentors from their chosen field (if available).
 
 Lifelong learning opportunities as in a chance for everyone to learn what interests them no matter their age or profession, in essence, opportunities for everyone to pursue 
-
 their passion.
 
 This is where the second part of our challenge comes in. ‘Productive employment’. We firmly believe that when people are passionate about their work they will most certainly be 
-
 productive. So, when we start learning and working in our fields of interests we would be productive.
 
 We will also provide them opportunities to exhibit and advertise their work. We hope this will help support their chances at sustaining in their chosen field.
