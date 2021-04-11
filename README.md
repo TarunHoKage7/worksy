@@ -1,8 +1,8 @@
-# worksy
+# WORKSY
 
 Upskilling application for the unorganized sector.
 
-##ABSTRACT
+#ABSTRACT
 
 
 Upskilling is essential in every walk of life. We see a lot of up-skilling applications for STEM (science, technology, engineering, and mathematics) related fields. So, we know 
