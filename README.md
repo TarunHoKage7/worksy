@@ -1,6 +1,24 @@
 # WORKSY
 
-Upskilling application for the unorganized sector.
+Upskilling and networking application for the unorganized sector.
+
+#Features:
+
+*Video Player 
+ 
+ *Video learning resources
+ 
+ *Connected to firebase - Firestore(cloud storage) But uploading and retriving isn't completely done
+ 
+ *Implemented marketplace prototype(was supposed to be similar to Instagram’s feed. It isn’t quite there yet. )
+ 
+ *Google, Facebook, and Github authentication are planned.
+ 
+ *User profiles pending.
+ 
+ *Improve UI.
+ 
+ *Alot more to be done.
 
 #ABSTRACT
 
@@ -31,21 +49,3 @@ This is where the second part of our challenge comes in. ‘Productive employmen
 productive. So, when we start learning and working in our fields of interests we would be productive.
 
 We will also provide them opportunities to exhibit and advertise their work. We hope this will help support their chances at sustaining in their chosen field.
-               
-#Features:
-
-*Video Player 
- 
- *Video learning resources
- 
- *Connected to firebase - Firestore(cloud storage) But uploading and retriving isn't completely done
- 
- *Implemented marketplace prototype(was supposed to be similar to Instagram’s feed. It isn’t quite there yet. )
- 
- *Google, Facebook, and Github authentication are planned.
- 
- *User profiles pending.
- 
- *Improve UI.
- 
- *Alot more to be done.
