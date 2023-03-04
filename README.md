@@ -2,25 +2,25 @@
 
 Upskilling and networking application for the unorganized sector.
 
-#Features:
+## Features:
 
-*Video Player 
+* Video Player 
  
- *Video learning resources
+ * Video learning resources
  
- *Connected to firebase - Firestore(cloud storage) But uploading and retriving isn't completely done
+ * Connected to firebase - Firestore(cloud storage) But uploading and retriving isn't completely done
  
- *Implemented marketplace prototype(was supposed to be similar to Instagram’s feed. It isn’t quite there yet. )
+ * Implemented marketplace prototype(was supposed to be similar to Instagram’s feed. It isn’t quite there yet. )
  
- *Google, Facebook, and Github authentication are planned.
+ * Google, Facebook, and Github authentication are planned.
  
- *User profiles pending.
+ * User profiles pending.
  
- *Improve UI.
+ * Improve UI.
  
- *Alot more to be done.
+ * Alot more to be done.
 
-#ABSTRACT
+## ABSTRACT
 
 
 Upskilling is essential in every walk of life. We see a lot of up-skilling applications for STEM (science, technology, engineering, and mathematics) related fields. So, we know 
@@ -37,7 +37,7 @@ We do also intend to beta test this application with a few users within the targ
 
 experience.
 
-#Intro:             
+## Intro:             
 
 The problem we’ve chosen to solve is two-part. The first being ‘providing up-skilling opportunities to all while also promoting lifelong learning opportunities and later a 
 chance at apprenticeship to mentors from their chosen field (if available).
